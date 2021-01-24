@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HARRY POTTER UNABRIDGED AUDIOBOOKS (1-7): READ BY JIM DALE
 
 Harry Potter is a series of seven fantasy novels written by 
@@ -34,4 +35,42 @@ Books:
 
 06 Harry Potter and the Half-Blood Prince (2005)
 
+=======
+HARRY POTTER UNABRIDGED AUDIOBOOKS (1-7): READ BY JIM DALE
+
+Harry Potter is a series of seven fantasy novels written by 
+British author J. K. Rowling. The series chronicles the 
+adventures of a young wizard, Harry Potter, the titular character, 
+and his friends Ronald Weasley and Hermione Granger, all of whom 
+are students at Hogwarts School of Witchcraft and Wizardry. The 
+main story arc concerns Harry's quest to defeat the Dark wizard 
+Lord Voldemort, who aims to become immortal, conquer the wizarding 
+world, subjugate non-magical people, and destroy all those who 
+stand in his way, especially Harry Potter.
+
+File Type: MP3
+Channels: 1 (mono)
+Bit Rate: 24 kbps
+Sample Rate: 16kHz
+
+Total Size: 1,17 GB
+Total Run Time: 116 hr 25 min 33 seconds
+
+Divided into chapters and properly tagged.
+
+Books:
+
+01 Harry Potter and the Sorcerer's Stone (1997)
+
+02 Harry Potter and the Chamber of Secrets (1998)
+
+03 Harry Potter and the Prisoner of Azkaban (1999)
+
+04 Harry Potter and the Goblet of Fire (2000)
+
+05 Harry Potter and the Order of the Phoenix (2003)
+
+06 Harry Potter and the Half-Blood Prince (2005)
+
+>>>>>>> 819ba25a157eee54f46be9350c552f55e3f03343
 07 Harry Potter and the Deathly Hallows (2007)
